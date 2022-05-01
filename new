@@ -1,0 +1,36 @@
+<body>
+        <a href="Index.html">index.html</a>
+        <div>
+            <ol>
+                <li class="food">飯飯</li>
+                <li class="food">麵麵</li>
+                <li class="food">菜菜</li>
+            </ol>
+            <ul>
+                <li class="demand">好好</li>
+                <li class="demand">不不</li>
+                <li class="demand">要要</li>
+            </ul>
+        </div>
+        <input style="width:200px;" type="text" placeholder="type what you want~" />
+        <h1 id="hello">你好</h1>
+    </br>
+        <div class="container">
+            <div class="box1">區一</div>
+            <div class="box2">區二</div>
+            <div class="box3">區三</div>
+        </div>
+    </br>
+        <div class="container1">
+            <div class="package1 package">區一</div>
+            <div class="package2 package">區二</div>
+            <div class="package3 package">區三</div>
+        </div>
+    </br>
+        <div class="container2">
+            <div class="solid1">塊一</div>
+            <div class="solid2">塊二</div>
+            <div class="solid3">塊三</div>
+            
+        </div>
+    </body>
